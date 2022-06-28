@@ -1,5 +1,5 @@
 d3dshot==0.1.5
-numpy==1.19.4
+numpy==1.22.0
 
 # note: this is a CPU-only version of OpenCV
 opencv-python-headless==4.5.1.48
